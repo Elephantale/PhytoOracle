@@ -20,7 +20,7 @@ Stereotop Benchmarking workflow
    
    sudo apt-get update #update references to packages to install latest
    sudo apt-get upgrade -y #update all currently installed packages
-   sudo apt-get install -y sysstat git ruby ruby-dev wget python-dev swig zlib1g-dev build-essential perl libperl-dev singularity-  container #Install all required dependencies for cctool and what we need
+   sudo apt-get install -y sysstat git ruby ruby-dev wget python-dev swig zlib1g-dev build-essential perl libperl-dev singularity-container #Install all required dependencies for cctool and what we need
 
 * Download data
 .. code::
